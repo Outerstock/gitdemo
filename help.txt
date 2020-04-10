@@ -1,7 +1,3 @@
 adsdasd
 hhhhhh
-<<<<<<< HEAD
 88888
-=======
-7777
->>>>>>> 1280887ff04c96c12ebfe8e8be591fe584d06f35
