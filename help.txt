@@ -1,10 +1,5 @@
 adsdasd
 hhhhhh
-<<<<<<< HEAD
-88888
-asxaxasxas
-xzzxc
-=======
 77777
 eeeee
->>>>>>> 9c9f80234f9ef85c24d2dd4af8c02bed74f6a738
+cccc
